@@ -1,0 +1,18 @@
+{
+  app: {
+      version: '1.0',
+      address:[],
+  },
+  smapi: {
+     "version": "4.1.7.0",
+    "address": [
+      "https://ghproxy.cn/https://github.com/Pathoschild/SMAPI/releases/download/4.1.7/SMAPI-4.1.7-installer.zip",
+      "https://ghproxy.cc/https://github.com/Pathoschild/SMAPI/releases/download/4.1.7/SMAPI-4.1.7-installer.zip",
+      "https://ghproxy.net/https://github.com/Pathoschild/SMAPI/releases/download/4.1.7/SMAPI-4.1.7-installer.zip",
+      "https://down.sciproxy.com/github.com/Pathoschild/SMAPI/releases/download/4.1.7/SMAPI-4.1.7-installer.zip",
+      "https://gh-proxy.com/github.com/Pathoschild/SMAPI/releases/download/4.1.7/SMAPI-4.1.7-installer.zip",
+      "https://gh.chjina.com/https://github.com/Pathoschild/SMAPI/releases/download/4.1.7/SMAPI-4.1.7-installer.zip",
+    ],
+    "help": "https://akams.cn/url-checker/#",
+  }
+}
